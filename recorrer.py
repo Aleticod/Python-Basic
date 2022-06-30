@@ -1,3 +1,6 @@
+from pip import main
+
+
 def run():
   frase = input('Escribe una frase: ')
   for caracter in frase:
